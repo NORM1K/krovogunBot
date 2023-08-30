@@ -12,7 +12,7 @@ import os
 import random
 
 
-bot = telebot.TeleBot('5870923226:AAEnQrtiCKsNC1FdjaIhIl3h-f-zujY8RtI')
+bot = telebot.TeleBot('')
 
 
 @bot.message_handler(commands=['start'])
